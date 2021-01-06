@@ -1,0 +1,2 @@
+# eecs442project5
+Code and documents available to professionals upon request. This repository contains my submission for Project 5 of University of Michigan's EECS 442 (Introduction to Computer Vision). In this project, I implement a version of the U-Net Convolutional Neural Network architecture (authored by Ronneberger et. al.), use PyTorch, and experiment with Activation Visualization techniques to predict objects from input images.
